@@ -1,0 +1,7 @@
+{
+  "name": "binary-prng-cli",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "author": "Egor Piskunou",
+  "license": "MIT"
+}

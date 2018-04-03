@@ -2,6 +2,13 @@
   "name": "binary-prng-cli",
   "version": "1.0.0",
   "main": "cli.js",
+  "repository": {
+    "url": "https://github.com/overkektus/binary-prng-cli"
+  },
   "author": "Egor Piskunou",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "yargs": "^11.0.0"
+  }
 }
